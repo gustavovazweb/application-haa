@@ -18,7 +18,7 @@ IMPORTANT: The WEB version is for the exclusive use of the NGO, for registration
 <table>
 	<tr>
 		<th width="100%">
-			Interface Web<br>
+			Web Interface<br>
 		</th>
 	</tr>
 	<tr>

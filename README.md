@@ -2,7 +2,7 @@
 This project was developed in order to connect NGOs that need some kind of help to people who can contribute.
 It is an application developed with Node.js on the back-end, ReactJS on the front-end and React Native on mobile.
 
-# Features
+## Features
 
 WEB Version
 * Register the NGO to later generate an ID that allows you to login to the application.
@@ -14,7 +14,7 @@ Mobile Version
 
 IMPORTANT: The WEB version is for the exclusive use of the NGO, for registration of cases and general maintenance of the account, while the mobile version is only for users to have access to the cases and to contact NGOs to make a contribution.
 
-# Screenshots
+## Screenshots
 <table>
 	<tr>
 		<th width="100%">
@@ -73,14 +73,14 @@ IMPORTANT: The WEB version is for the exclusive use of the NGO, for registration
 	</tr>
 </table>
 
-# Getting started
+## Getting started
 To execute the project, it will be necessary to install / use the following applications:
 * Node.js
 * NPM
 * React
 * Express
 
-# Technologies
+## Technologies
 * **Backend**: A RESTful API was created using Node.js, Express, Cors. This API was integrated into an SQLite database using Knex. At the end of the development process, data validation on the routes was implemented using the Celebrate library. Unit and integration tests were developed using the Jest, Supertest and cross-environment libraries.
 * **Website**: ReactJS.
 * **Mobile**: React Native and Expo.

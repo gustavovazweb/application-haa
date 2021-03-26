@@ -1,6 +1,6 @@
 # Help An Angel - Animal Welfare
 This project was developed in order to connect NGOs that need some kind of help with people who can contribute.
-It is an application developed with Node.js on the back-end, ReactJS on the front-end and React Native on mobile.
+It is an application developed with Node.js on the back-end, ReactJS on the front-end and React Native on mobile. It's a work in progress.
 
 ## Features
 
